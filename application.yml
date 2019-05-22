@@ -7,4 +7,4 @@ spring:
  
 version: test
  
-test-string: abcdefghijk
+test-string: abc
